@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Fri May  8 12:09:00 2026"
+  rime_version: 1.13.1
+patch:
+  "style/color_scheme": lost_temple
+  "style/color_scheme_dark": lost_temple
+  "style/comment_font_point": 10
+  "style/font_point": 11
+  "style/horizontal": true
+  "style/inline_preedit": true
+  "style/label_font_point": 11
+  "show_notifications": false # 禁用中英切换图标显示
